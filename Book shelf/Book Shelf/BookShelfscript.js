@@ -1,4 +1,0 @@
-
-if(selectedValue==="read"){
-    
-}
